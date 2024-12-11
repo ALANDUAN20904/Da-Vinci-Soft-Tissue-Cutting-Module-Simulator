@@ -1,4 +1,4 @@
-# Da-Vinci-Surgical-Module-Simulator
+# Da-Vinci-Soft-Tissue-Cutting-Simulator
 
 ## task List
 1) set scene
