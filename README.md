@@ -1,11 +1,13 @@
 # Da-Vinci-Soft-Tissue-Cutting-Simulator
 
 ## task List
-1) set scene
+1) Figure out soft body particle modification
 
-2) instrument package input
+2) set scene
 
-3) basic function in the module
+3) instrument package input
 
-4) machine learning for error rate based on user input
+4) basic function in the module
+
+5) machine learning for error rate based on user input
 
